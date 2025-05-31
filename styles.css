@@ -1,0 +1,12 @@
+:root {
+  --soft-apricot: #FFD8B1;
+  --peach-cream: #FFBC9A;
+  --warm-coral: #FFA07A;
+  --sunset-blush: #F6A192;
+  --mellow-tangerine: #FBBE8C;
+  --creamy-sand: #F6E2B3;
+}
+
+body {
+  background-color: var(--peach-cream);
+}
