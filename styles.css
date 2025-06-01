@@ -10,3 +10,15 @@
 body {
   background-color: var(--peach-cream);
 }
+
+#settings {
+  background-color: var(--creamy-sand);
+}
+
+#original {
+  background-color: var(--creamy-sand);
+}
+
+#translation {
+  background-color: var(--creamy-sand);
+}
