@@ -26,6 +26,19 @@ div {
 
 #settings {
   background-color: var(--creamy-sand);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+select {
+  width: 15vw;
+  height: 7vh;
+  border: 0;
+  border-radius: 5px;
+  margin: 0 1vw;
+  background-color: var(--sunset-blush);
 }
 
 #original {
